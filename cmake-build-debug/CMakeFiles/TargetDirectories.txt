@@ -1,0 +1,3 @@
+C:/Users/Micae/CLionProjects/Ingeniero/cmake-build-debug/CMakeFiles/Ingeniero.dir
+C:/Users/Micae/CLionProjects/Ingeniero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Micae/CLionProjects/Ingeniero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
